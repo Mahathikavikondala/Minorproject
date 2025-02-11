@@ -43,6 +43,10 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 The below diagram explains the workflow:
 ![Workflow](assets/Workflow.png)
 
+## User interface:
+Once the user opens the website, following page opens:
+![Input](assets/Input page.png)
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
