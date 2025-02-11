@@ -45,7 +45,10 @@ The below diagram explains the workflow:
 
 ## User interface:
 Once the user opens the website, following page opens:
-![Input](assets/Input page.png)
+![Input](assets/Inputpage.png)
+
+After selecting the features and clicking on 'Predict price range':
+![Output](assets/Outputpage.png)
 
 ## Learn More
 
