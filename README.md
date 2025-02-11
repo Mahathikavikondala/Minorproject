@@ -41,7 +41,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Basic workflow:
 The below diagram explains the workflow:
-![Workflow] (assets/Workflow.png)
+![Workflow](assets/Workflow.png)
 
 ## Learn More
 
